@@ -1,0 +1,25 @@
+Question 1 -> answer D ,justifications 
+
+-I case: they basically don't learn anything theyselves pick on hipoatesys (the statistical model) and infer as true, so there is no learning in that. 
+-II case: this is supervised learning because you have that LABELED dataset.
+-III case: this is reinforciment learning because you are being penalized by bad moves.
+
+Question 2 -> answer A
+
+I - doesn't seems optimal
+II - yes it seems ok
+III - no god no, theres some basic phisycs formula for that
+IV - it seems fair enough 
+
+Question 3,4 and 5
+
+Review notes:
+- monty hall problem
+not p = 1 -p 
+q and p = q * p (idenpendently)
+p or q = morgan (not (not p) and (not q))
+
+
+Question 6
+
+
