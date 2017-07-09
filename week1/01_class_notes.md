@@ -6,20 +6,20 @@
       - B We cannot pin it down mathematically
       - C We have to have data
       
-
-``` UNKNOWN TARGET FUNCTION (IDEAL)
-           |
-           |
-           |
-           V
-   TRAINING SAMPLES
-           |
-           |
-           ----- > LEARNINNG ALGORITHM -----> FINAL HYPOTESIS (Trained model)
-           |
-           |
-           |
-   HYPORTESIS SET ```
+      
+      ``` UNKNOWN TARGET FUNCTION (IDEAL)
+                 |
+                 |
+                 |
+                 V
+         TRAINING SAMPLES
+                 |
+                 |
+                  ----- > LEARNINNG ALGORITHM -----> FINAL HYPOTESIS (Trained model)
+                 |
+                 |
+                 |
+         HYPORTESIS SET ```
     
 - Perceptron Learning Algorithm 
 
