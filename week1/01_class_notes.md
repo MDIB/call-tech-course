@@ -19,7 +19,7 @@
            |
            |
            |
-   HYPORTESIS SET```
+   HYPORTESIS SET ```
     
 - Perceptron Learning Algorithm 
 
