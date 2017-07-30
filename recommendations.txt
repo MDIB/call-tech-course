@@ -1,0 +1,14 @@
+Study some statistics W
+Learn numpy api W
+Learn pandas api W
+Train on real data W (metabase)
+Learn scikit A
+Compete on kaggle A
+Learn tensorflow A
+
+
+W = can be done while doing course
+A = can be done only after finishing the course
+
+- Install all the libs with anaconda (they will be like very fast/optimized in compared with pip)
+
