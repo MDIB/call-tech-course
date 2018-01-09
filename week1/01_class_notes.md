@@ -1,6 +1,6 @@
 - The learning problem
 
-   - how viewer will rate a movie (netflix) , 10% inc -> 1 million dollars prise
+   - how viewer will rate a movie (netflix) , 10% inc -> 1 million dollars prize
     - the essence of machine learnign 
       - A a pattern exists (in this case: there's a question that relates the way a person rates a movie and to how he rated other movie and other people rate this movie
       - B We cannot pin it down mathematically
